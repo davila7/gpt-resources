@@ -27,6 +27,7 @@ Guía de estudio 📚🤓 y recursos 🛠
 - [Azure OpenAI](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/)
 - [Google LamDA](https://blog.google/technology/ai/join-us-in-the-ai-test-kitchen/)
 - [Meta CICERO](https://ai.facebook.com/blog/cicero-ai-negotiates-persuades-and-cooperates-with-people/)
+- [IBM Watson](https://www.ibm.com/watson)
 - [Humanloop](https://humanloop.com/)
 
 <hr>
