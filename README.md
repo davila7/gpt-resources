@@ -1,5 +1,5 @@
 # GPT Resources
-Guía de estudio 🤓
+Guía de estudio 📚🤓 y recursos 🛠
 
 
 ## Prompt
