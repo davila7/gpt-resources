@@ -6,7 +6,7 @@ Guía de estudio 📚🤓 y recursos 🛠
 
 - [Learn Prompting](https://learnprompting.org/)
 - [Prompt y Completion - Español](https://medium.com/@dan.avila7/prompt-y-completion-en-openai-8608dad0b153)
-- [GPT-3 y Codex](https://medium.com/@dan.avila7/modelos-de-gpt-3-y-codex-11a64948d87)
+- [GPT-3 y Codex - Español](https://medium.com/@dan.avila7/modelos-de-gpt-3-y-codex-11a64948d87)
 - [Temperatura y Top_p - Español](https://medium.com/@dan.avila7/c%C3%B3mo-manejar-los-par%C3%A1metros-temperature-y-top-p-en-openai-b45892b250be)
 - [Prompt Token - Español](https://medium.com/@dan.avila7/concepto-de-tokens-en-openai-f5d4196076f6)
 - [Prompt Engineering Github Repo](https://github.com/dair-ai/Prompt-Engineering-Guide)
