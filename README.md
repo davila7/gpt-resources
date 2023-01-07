@@ -36,6 +36,7 @@ Guía de estudio 📚🤓 y recursos 🛠
 - [David Shapiro](https://youtu.be/ePdmv4ucmb8)
 - [The Art of Prompt Design, OpenAI Codex, Fine Tuning and More with David Shapiro - YouTube](https://youtu.be/VSeGgDNONaY)
 - [OpenAI Whisper test](https://youtu.be/OCBZtgQGt1I)
+- [Codex playlist](https://www.youtube.com/playlist?list=PLOXw6I10VTv_FhQbbvYh1FvbiaPf43Ve2)
 
 <hr>
 
