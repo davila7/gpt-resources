@@ -24,6 +24,8 @@ Guía de estudio 📚🤓 y recursos 🛠
 
 - [OpenAI InstructGPT](https://openai.com/blog/instruction-following/)
 
+- [Prompt Database](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts)
+
 <hr>
 
 ## AI API
