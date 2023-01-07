@@ -59,6 +59,6 @@ Guía de estudio 📚🤓 y recursos 🛠
 - [midjourney](https://midjourney.com/home/?callbackUrl=%2Fapp%2F)
 
 <hr>
-Deja tu estrella ⭐️ en el repo si te gustó!
+La información se irá actualizando, así que guarda la página y deja tu estrella ⭐️ en el repo si te gustó!
 
 
