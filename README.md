@@ -1,4 +1,5 @@
 # GPT Resources
+Guía de estudio 🤓
 
 
 ## Prompt
@@ -76,5 +77,8 @@
 - [OpenAI Dall-e](https://openai.com/dall-e-2/)
 
 - [midjourney](https://midjourney.com/home/?callbackUrl=%2Fapp%2F)
+
+<hr>
+Deja tu estrella ⭐️ en el repo si te gustó!
 
 
