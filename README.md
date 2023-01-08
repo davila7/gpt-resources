@@ -1,6 +1,7 @@
 # GPT Resources
 Guía de estudio 📚🤓 y recursos 🛠
 
+La información se irá actualizando, así que guarda la página y deja tu estrella ⭐️ en el repo si te gusta 👍
 
 ## Prompt
 
@@ -58,7 +59,5 @@ Guía de estudio 📚🤓 y recursos 🛠
 - [OpenAI Dall-e](https://openai.com/dall-e-2/)
 - [midjourney](https://midjourney.com/home/?callbackUrl=%2Fapp%2F)
 
-<hr>
-La información se irá actualizando, así que guarda la página y deja tu estrella ⭐️ en el repo si te gustó!
 
 
